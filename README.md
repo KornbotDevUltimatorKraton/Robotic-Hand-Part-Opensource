@@ -10,5 +10,6 @@ screw and nut
 For the joint connector part you will need to drill the horn of the servo with the joint connector part 
 
 The source code for the robotic hand will upload for using with this Opensource robotic Barrett hand type soon 
-
-Thank you for download :)
+if you have any suggestion or confusing with the assembly part feel free to contact me on facebook https://www.facebook.com/ultimate.korn 
+or g-mail teslacoil358@gmail.com 
+Thank you for download :) 
